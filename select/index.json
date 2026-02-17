@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Casino",
+  "base_artist": "Azari",
+  "createdAt": "2026-02-17T02:37:21.044064Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bloody Mary Morning (Live at Harrah's Casino, Lake Tahoe, NV - April 1978)",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/01_Bloody_Mary_Morning_(Live_at_Harrah's_Casino,_Lake_Tahoe,_NV_-_April_1978)_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Crazy (Live at Harrah's Casino, Lake Tahoe, NV - April 1978)",
+      "artist": "Willie Nelson",
+      "has_synced": false,
+      "path": "select/02_Crazy_(Live_at_Harrah's_Casino,_Lake_Tahoe,_NV_-_April_1978)_Willie_Nelson.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Funny How Time Slips Away (Live at Harrah's Casino, Lake Tahoe, NV - April 1978)",
+      "artist": "Willie Nelson",
+      "has_synced": false,
+      "path": "select/03_Funny_How_Time_Slips_Away_(Live_at_Harrah's_Casino,_Lake_Tahoe,_NV_-_April_1978)_Willie_Nelson.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Georgia on My Mind (Live at Harrah's Casino, Lake Tahoe, NV - April 1978)",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/04_Georgia_on_My_Mind_(Live_at_Harrah's_Casino,_Lake_Tahoe,_NV_-_April_1978)_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Good Hearted Woman (Live at Harrah's Casino, Lake Tahoe, NV - April 1978)",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/05_Good_Hearted_Woman_(Live_at_Harrah's_Casino,_Lake_Tahoe,_NV_-_April_1978)_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mammas Don't Let Your Babies Grow up to Be Cowboys (Live at Harrah's Casino, Lake Tahoe, NV - April 1978)",
+      "artist": "Willie Nelson",
+      "has_synced": false,
+      "path": "select/06_Mammas_Don't_Let_Your_Babies_Grow_up_to_Be_Cowboys_(Live_at_Harrah's_Casino,_Lak_Willie_Nelson.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Night Life (Live at Harrah's Casino, Lake Tahoe, NV - April 1978)",
+      "artist": "Willie Nelson",
+      "has_synced": false,
+      "path": "select/07_Night_Life_(Live_at_Harrah's_Casino,_Lake_Tahoe,_NV_-_April_1978)_Willie_Nelson.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Whiskey River (Live at Harrah's Casino, Lake Tahoe, NV - April 1978)",
+      "artist": "Willie Nelson",
+      "has_synced": false,
+      "path": "select/08_Whiskey_River_(Live_at_Harrah's_Casino,_Lake_Tahoe,_NV_-_April_1978)_Willie_Nelson.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Will the Circle Be Unbroken (Live at Harrah's Casino, Lake Tahoe, NV - April 1978)",
+      "artist": "Willie Nelson",
+      "has_synced": false,
+      "path": "select/09_Will_the_Circle_Be_Unbroken_(Live_at_Harrah's_Casino,_Lake_Tahoe,_NV_-_April_197_Willie_Nelson.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Born to Die (Clams Casino remix)",
+      "artist": "Lana Del Rey",
+      "has_synced": false,
+      "path": "select/10_Born_to_Die_(Clams_Casino_remix)_Lana_Del_Rey.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "4 Gold Chains - (feat. Clams Casino)",
+      "artist": "Lil Peep feat. Clams Casino",
+      "has_synced": true,
+      "path": "select/11_4_Gold_Chains_-_(feat._Clams_Casino)_Lil_Peep_feat._Clams_Casino.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Casino",
+      "artist": "Azari",
+      "has_synced": false,
+      "path": "select/pl_01_Casino_Azari.txt"
+    }
+  ]
+}
